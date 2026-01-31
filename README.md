@@ -64,11 +64,3 @@ While our sentiment analysis model strives for accuracy, it's essential to ackno
 
 3. **Collecting More Data**: Continuously gathering more data, particularly the latest ones, is essential for improving the accuracy and relevance of sentiment analysis models. As language evolves over time and new expressions, slang, and topics emerge, training data must reflect these changes to ensure that sentiment analysis systems remain effective and up-to-date. By collecting and incorporating the latest data from various sources such as social media platforms, news websites, and online forums, researchers can enhance the model's ability to capture contemporary language usage and sentiment trends. Additionally, employing techniques such as active learning and data augmentation can help in efficiently acquiring and augmenting labeled data for training sentiment analysis models, thereby improving their performance on real-world tasks.
 
-## Reference
-Citation: Go, A., Bhayani, R. and Huang, L., 2009. Twitter sentiment classification using distant supervision. CS224N Project Report, Stanford, 1(2009), p.12.
-
-## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://github.com/soumyadeepghoshGG/Twitter-Sentiment-Analysis-with-NLP/blob/main/License.txt) file for details.
-
-## Contact
-For questions or issues, please contact me (Soumyadeep Ghosh) via mail: soumyadeepghosh57@gmail.com
